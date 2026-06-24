@@ -30,8 +30,10 @@ pip install qrcode[pil]
 ## Screenshot
 
 ![QR Code Generator](screenshot.png)
+
+## Run the Application
+
 python GenQr.py
-```
 
 ## Author
 
