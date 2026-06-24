@@ -33,7 +33,9 @@ pip install qrcode[pil]
 
 ## Run the Application
 
+```bash
 python GenQr.py
+```
 
 ## Author
 
