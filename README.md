@@ -27,6 +27,9 @@ pip install qrcode[pil]
 3. Run the application
 
 ```bash
+## Screenshot
+
+![QR Code Generator](screenshot.png)
 python GenQr.py
 ```
 
